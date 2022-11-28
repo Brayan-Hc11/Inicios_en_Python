@@ -1,2 +1,2 @@
 # Inicios_en_Python
-En este repositorio se podrán ver algunos ejercicios que he realizado, con el propósito de aprender Python.
+In this repository you can see some exercises he did, with the purpose of learning Python.
