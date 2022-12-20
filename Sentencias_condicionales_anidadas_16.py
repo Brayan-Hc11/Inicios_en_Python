@@ -30,6 +30,8 @@ elif opcion == 2:
     print ("\n A escojido el  Convertidor de palabra a número \n")
 # Anidamos la segunda sentencia condicional multiple
     op_dos = input("¿Cúal es la palabra que desea convertir a número?: ")
+# El comando de .lower() nos permite convertir una cadena de caracteres mayusculas a minusculas.
+    op_dos = op_dos.lower()
     if op_dos == "uno":
         print ("El resultado es: 1 \n")
     elif op_dos == "dos":
